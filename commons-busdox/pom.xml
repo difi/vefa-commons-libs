@@ -5,7 +5,7 @@
 
     <groupId>no.difi.vefa</groupId>
     <artifactId>commons-busdox</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1-SNAPSHOT</version>
 
     <name>Busdox</name>
     <description>Busdox artifacts for Java.</description>
