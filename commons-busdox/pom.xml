@@ -5,7 +5,7 @@
 
     <groupId>no.difi.vefa</groupId>
     <artifactId>commons-busdox</artifactId>
-    <version>0.9.0-SNAPSHOT</version>
+    <version>0.9.0</version>
 
     <name>Busdox</name>
     <description>Busdox artifacts for Java.</description>
@@ -204,10 +204,6 @@
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-release-plugin</artifactId>
                         <version>2.5.2</version>
-                        <configuration>
-                            <pomFileName>commons-busdox/pom.xml</pomFileName>
-                            <arguments>-f commons-busdox/pom.xml</arguments>
-                        </configuration>
                     </plugin>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
