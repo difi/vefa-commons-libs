@@ -5,7 +5,7 @@
 
     <groupId>no.difi.vefa</groupId>
     <artifactId>commons-bdxr</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1-SNAPSHOT</version>
 
     <name>VEFA Commons :: BDXR</name>
     <description>BDXR artifacts for Java.</description>
